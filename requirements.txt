@@ -1,0 +1,5 @@
+plotly==5.3.1
+pandas
+numpy
+scipy
+streamlit
